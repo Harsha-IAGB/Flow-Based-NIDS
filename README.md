@@ -1,4 +1,4 @@
-**V.Sri Harsha, Vijey Shrivathsan in collaboration with T.Senthil Kumar,Associate Professor,Computer Science and Engineeirng Department,Amrita Vishwa Vidyapeetham,Coimbatore,Email-t_senthilkumar@cb.amrita.edu and Sulakshan Vajipayajula, IBM. 
+**V.Sri Harsha, Vijey Shrivathsan in collaboration with T.Senthil Kumar,Associate Professor,Computer Science and Engineering Department, Amrita Vishwa Vidyapeetham, Coimbatore, India, Email-t_senthilkumar@cb.amrita.edu and Sulakshan Vajipayajula, IBM. 
 Code Developed as part of IBM Funded Project: Two-Stage IDS Using Deep Learning**
 
 Network intrusion detection system (NIDS) is a tool used to detect and classify the network breaches dynamically in information and communication technologies (ICT) systems in both industries and academia. NIDS is used to detect network born attacks such as Denial of Service (DoS) attacks, malware replication, and intruders that are operating within the system.
