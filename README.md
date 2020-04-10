@@ -8,6 +8,7 @@ Execution Flow:
 Instructions:
 
 1.The dataset can be downloaded from,
+
     i. https://www.unb.ca/cic/datasets/ids-2017.html
     ii. https://drive.google.com/open?id=1CARwQLIgqNcxObqOoGey-3TzaShq9tHh  
 2. Copy all the files from the "MachineLearningCVE" folder and paste them in "FlowBasedNIDS" folder.
